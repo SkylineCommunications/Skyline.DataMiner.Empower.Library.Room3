@@ -41,7 +41,7 @@
 			}
 
 			name = orderValue;
-			suffix = " from room 'SuperRoom3'";
+			suffix = " from Blue Team (Room 3)";
 		}
 
 		/// <summary>
